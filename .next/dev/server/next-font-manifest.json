@@ -1,0 +1,9 @@
+{
+  "app": {
+    "[project]/app/draw/page": [],
+    "[project]/app/page": []
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
